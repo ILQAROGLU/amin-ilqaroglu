@@ -1,0 +1,143 @@
+#EXTM3U
+#EXTINF:-1 group-title="Azerbaycan",Az.tv
+http://185.32.44.154/AzTVHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Azerbaycan",Itv
+https://live.itv.az/itv.m3u8?bandwidth=2500&shift=0
+#EXTINF:-1 group-title="Azerbaycan",Mədəniyyət tv
+https://str2.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8?token=29f8466143c5006ec000fb45925c4017660525d7-af8cbe04bc39a49508616ab50d4627d4-1745948970000000-1745938170000
+#EXTINF:-1 group-title="Azerbaycan",İdman az
+https://str2.yodacdn.net/idman/tracks-v1a1/mono.m3u8?token=29f8466143c5006ec000fb45925c4017660525d7-af8cbe04bc39a49508616ab50d4627d4-1745948970000000-1745938170000
+#EXTINF:-1 group-title="Azerbaycan",TMB az
+https://str.yodacdn.net/tmbtr/index.m3u8?token=66e8842026c646ef6219668f73a668dc1f66176e-81efc59372d73fa33c2d753648a70165-1751127452-1751116652
+#EXTINF:-1 group-title="Azerbaycan",Xəzər
+http://flussonic.izone.az/xezertv/index.m3u8
+#EXTINF:-1 group-title="Azerbaycan",Dünya tv
+http://flussonic.izone.az/dunyatv/index.m3u8
+#EXTINF:-1 group-title="Azerbaycan",Atv cinema
+http://pars.viper01.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=563780&extension=m3u8
+#EXTINF:-1 group-title="Azerbaycan",Atv.az
+https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920.m3u8
+#EXTINF:-1 group-title="Azerbaycan",Sehiyye tv
+http://185.32.44.154/sehiyye/index.m3u8
+#EXTINF:-1 group-title="Azerbaycan",Space tv az
+http://flussonic.izone.az/spacetv/index.m3u8
+#EXTINF:-1 group-title="Azerbaycan",Arb
+http://flussonic.izone.az/arb/index.m3u8
+#EXTINF:-1 group-title="Azerbaycan",Arb24
+http://185.32.44.154/arb24/index.m3u8
+#EXTINF:-1 group-title="Azerbaycan",Real.az
+http://185.32.44.154/realtv/index.m3u8
+#EXTINF:-1 group-title="Azerbaycan",CBC.az
+https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+#EXTINF:-1 group-title="Azerbaycan",CBC Sport.az
+https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
+#EXTINF:-1 group-title="Azerbaycan",Arb Günəş
+http://flussonic.izone.az/arbgunesh/index.m3u8
+#EXTINF:-1 group-title="Azerbaycan",Baku tv
+https://rtmp.baku.tv/hls/bakutv.m3u8
+#EXTINF:-1 group-title="Azerbaycan",Nax tv
+https://str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=57c7e6267d233da0a879782a42b7ce89bda9731d-6c8d28d127a4513299f6d251aeb00687-1745962208-1745951408
+#EXTINF:-1 group-title="Azerbaycan",El tv
+https://live.eltv.az/live/eltv/chunklist_w1399613735.m3u8
+#EXTINF:-1 group-title="Azerbaycan",Muz tv
+http://flussonic.izone.az/muztvaz/index.m3u8
+#EXTINF:-1 group-title="Azerbaycan",Ferrux tv
+https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
+#EXTINF:-1 group-title="Azerbaycan",Apa tv
+http://rtmp.apa.tv/@pagroup!23.m3u8
+#EXTINF:-1 group-title="Azerbaycan",Hadi tv
+https://live.ishiacloud.com/hls/1d6e10dc-7bfc-4abb-9bb3-0dfe80b3d7df_720p.m3u8
+#EXTINF:-1 group-title="Azerbaycan",Alvin tv
+https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/chunklist_w1034510641.m3u8
+#EXTINF:-1 group-title="Azerbaycan",Azstar
+http://live.azstartv.com/azstar/azstar_240p/playlist.m3u8
+#EXTINF:-1 group-title="Azerbaycan",Konul tv
+http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
+#EXTINF:-1 group-title="Azerbaycan",Live tv
+https://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:-1 group-title="Turk",Minika Cocuk
+https://trkvz-live.ercdn.net/minikagococuk/minikagococuk_576p.m3u8?st=mkKEMjEL_rOjiVH8PiYaaA&e=1751160659
+#EXTINF:-1 group-title="Turk",A Haber
+https://cdn11.canlitv.me/ahaber.m3u8?tkn=aixz8qvHEFkaFd-ECj1q5w&tms=1751139647&hst=www.canlitv.me&ip=212.47.132.205
+#EXTINF:-1 group-title="Turk",Tv8 fhd
+https://cdn401.canlitv.vin/tv8.m3u8?tkn=o5U5DPSjAYIASUzAYVPiKw&tms=1751139005&hst=www.canlitv.vin&ip=212.47.132.205
+#EXTINF:-1 group-title="Turk",TRT Spor
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/ZPAkabRswalfyLghyNg-bm4jTgWCHPNr-ID712sprdWF2ap0RoZIxQEWOIzOV7fO1yjY_BKoCidQyeXeIRBNNdgLLwO84BrEtzjQDKNfjLfBVfODWZlcNuytq8hToaxaeLUO3ABZ_OhJxJ6lTjytBUqIiD-SUoy9YamsqZDpjHylxXkoWx9qLAVnkmEHBi_J/hls/index.m3u8
+#EXTINF:-1 group-title="Turk",CCN Turk
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/kwsOlzkd3ySbywdLDPulDked1Tx0HKVQJ6v_RkPBCPGY17Sya_1aK-MfNTesvNK6jtlJbBN35VLHvyQCsfUYZa0n45m2SDdohljtU-AV659fHHLH1glO4QFjXzUFga335Aa7eP5Tm5aKAUFB69bHGcqKKpURjCypQ3Jd8DG_A1AvrguDn88NNXiGrVBNJACZ/hls/index.m3u8
+#EXTINF:-1 group-title="Turk",A2
+https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/B6pNTfic8DffBQmmgokYsIgBILroG4W35HyeR6rhjE9BvhxPbGjNor6s2AMN0JH0TXdFGiHubWiYEggpXWplwebJ41wURw0o2PjRfoNGL2ijkpw5M_NoRwE2PHpabaQvaxxBaNjxmsjckT4Su591K_tarDePc268SOpLZ5qGakj70IBaqs42R0w4MLsi7uy-/hls/index.m3u8
+#EXTINF:-1 group-title="Turk",TRT Muzik
+https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Turk",TRT Diyanet
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Turk",Minika GO
+https://trkvz-live.ercdn.net/minikago/minikago_576p.m3u8?st=5cArescm3JZtqRrm-zGWRA&e=1751160810
+#EXTINF:-1 group-title="Turk",TRT Cocuk HD TR
+https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Turk",TRT Belgesel TR
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Turk",360 HD
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 group-title="Turk",24 TV HD
+https://turkmedya-live.ercdn.net/tv24/tv24_360p.m3u8
+#EXTINF:-1 group-title="Turk",TV Net TR
+https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
+#EXTINF:-1 group-title="Turk",TV 4 TR
+https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
+#EXTINF:-1 group-title="Turk",TÜRK HABER
+https://edge1.socialsmart.tv/turkhaber/bant1/playlist.m3u8
+#EXTINF:-1 group-title="Turk",TRT WORLD
+https://tv-trtworld.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="Turk",TRT TURK EUROPA
+https://tv-trtturk.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="Turk",TRT Eba TV Ilkokul HD TR
+https://tv-e-okul04.medya.trt.com.tr/master_720.m3u8
+#EXTINF:-1 group-title="Turk",TRT HABER HD
+https://tv-trthaber.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="Turk",TRT Avaz
+https://tv-trtavaz.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="Turk",TRT1
+https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=6w8in7yy93ge&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+#EXTINF:-1 group-title="Turk",TLC TR
+https://dogus-live.daioncdn.net/tlc/tlc_360p.m3u8
+#EXTINF:-1 group-title="Turk",TİVİ TÜRK
+https://stream.tiviturk.de/live/tiviturk.m3u8
+#EXTINF:-1 group-title="Turk",TGRT Haber FHD TR
+https://canli.tgrthaber.com/tgrt.m3u8
+#EXTINF:-1 group-title="Turk",Teve 2 HD
+https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:-1 group-title="Turk",MECLİS TV
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1 group-title="Turk",Kanal S TR
+https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8
+#EXTINF:-1 group-title="Turk",Dost TV TR
+https://dost.stream.emsal.im/tv/live.m3u8
+#EXTINF:-1 group-title="Turk",BEYAZ TV HD
+https://beyaztv.daioncdn.net/beyaztv/beyaztv_720p.m3u8?&sid=7iupw4g0ebi2&app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
+#EXTINF:-1 group-title="Turk",Akit TV HD TR
+https://akittv-live.ercdn.net/akittv/akittv.m3u8
+#EXTINF:-1 group-title="Turk",EURO STAR
+https://mn-nl.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=xY1FkkQ6NW8etDTOL4Bfxw&e=1751202496
+#EXTINF:-1 group-title="Turk",Euro D TR
+https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
+#EXTINF:-1 group-title="Turk",Atv Avropa
+https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=0Iuka-Z5Ly8ywei4DtD4zg&e=1751161492&SessionID=1.2.1736064750.1751116274&StreamGroup=canli-yayin&Site=atvavrupa&DeviceGroup=web
+#EXTINF:-1 group-title="Turk",TV8
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/GCW68u0HV9DSVmTFAHEE9buyD8xHQxvymtYtgu8Npq7DzNbfmRcIKH12mJc0ibESOrWElBLmvZsx0sKcFfKT0ALx7VDeKNRaRDuz2l8gdc2PnEW7hIxAfmVVa9yFxeIrLAWzuSJeKdzWQj-yuUSFxkgmERZ29qI7ZicWadFbAWkDMAlF8iSTqtFLDE_LC8JA/hls/index.m3u8
+#EXTINF:-1 group-title="Turk",Star TV
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:-1 group-title="Turk",Now
+https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/HjSCp6ElzuWkEiRCoudU8cGfLV0lf-lBwyn55s8MDZW6vfoqvvUp3txki5qXdf_QjK_AcGYKrB4mYGs54EsPi3fU2g2PJKza7Axt39kLJ482U3Tvb-Teuy4r39LTbfjttNNIXY2dxkoEJcZjflkdG7QY18ntIzgDXq7yqxUJevAXLoyKHAHD73M3WDl6CjW1/hls/index.m3u8
+#EXTINF:-1 group-title="Turk",Show TV HD
+https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
+#EXTINF:-1 group-title="Turk",ATV HD TR
+http://mfe.cliptv.az/dash/ATV_Turk_HDufk050056_re.ism/playlist.mpd
+#EXTINF:-1 group-title="Turk",Kanal 7 Avrupa TR
+https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
+#EXTINF:-1 group-title="Turk",Kanal 7 FHD
+https://kanal7.daioncdn.net/kanal7/kanal7_480p.m3u8?&sid=630s3zibbjtp&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
+#EXTINF:-1 group-title="Turk",Kanal D
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+#EXTINF:-1 group-title="Turk",A Spor
+https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/XZHOIupdyTG1fn3haFDC_XqDjd-UYqzF3Hhe4H0cO0ogIOTMfE7pdLb5YVBIj2QS2mnuUDszDOdQGTnqc3BnbzvAML1aaics2LiJnpmoeWCP4oMUDGaDBdjIosBWG8mTkueB5PUO50rVyWN_ZxN8yEKebnTkwbN9_h9RHqpNJi1AweVBpD-mxB2VDYcVsdVG/hls/index.m3u8
