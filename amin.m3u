@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="Azerbaycan",Az.tv
 http://185.32.44.154/AzTVHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Itv
-https://live.itv.az/itv.m3u8?bandwidth=2500&sh
+https://live.itv.az/itv.m3u8?bandwidth=2500&shift=0
 #EXTINF:-1 group-title="Azerbaycan",Mədəniyyət tv
 https://str2.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8?token=29f8466143c5006ec000fb45925c4017660525d7-af8cbe04bc39a49508616ab50d4627d4-1745948970000000-1745938170000
 #EXTINF:-1 group-title="Azerbaycan",İdman az
