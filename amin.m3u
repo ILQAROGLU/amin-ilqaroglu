@@ -58,15 +58,15 @@ https://tv.mobyservice.ru/livetv/index.m3u8
 #EXTINF:-1 group-title="Turk",Minika Cocuk
 https://trkvz-live.ercdn.net/minikagococuk/minikagococuk_576p.m3u8?st=hCd4uCvM4KYKFXzPnBF1IQ&e=1751177251
 #EXTINF:-1 group-title="Turk",A Haber
-https://cdn11.canlitv.me/ahaber.m3u8?tkn=aixz8qvHEFkaFd-ECj1q5w&tms=1751139647&hst=www.canlitv.me&ip=212.47.132.205
+https://b.fulltvizle.com/ahaber/playlist.m3u8
 #EXTINF:-1 group-title="Turk",Tv8 fhd
-https://cdn401.canlitv.vin/tv8.m3u8?tkn=o5U5DPSjAYIASUzAYVPiKw&tms=1751139005&hst=www.canlitv.vin&ip=212.47.132.205
+http://89.187.191.41/TV8-HD-TR/video.m3u8
 #EXTINF:-1 group-title="Turk",TRT Spor
 https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/8ETzj8IrRLFoiQ07djCflUscnzvR4DPIrVdcZo3nCVD0Q1HOD2eh4-tTFnsFkQhG1_Qdbm3YhiILhhF5q4SLapv-mUAXzlDOYJS9GnNxYUJ6Ju9lH8EF17Z1WGAY9L1b7ympwCHrw5BPQBz86QPVXhDxRh0TK-iM5FAyHLohYeM/hls/index.m3u8
 #EXTINF:-1 group-title="Turk",CCN Turk
 https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=A-ThIpqNjWYCZlVtj18B_Q&e=1751146771
 #EXTINF:-1 group-title="Turk",A2
-https://td3wb1bchdvsahp.ngolpdkyoctjcddxshli469r.org/sunshine/B6pNTfic8DffBQmmgokYsIgBILroG4W35HyeR6rhjE9BvhxPbGjNor6s2AMN0JH0TXdFGiHubWiYEggpXWplwebJ41wURw0o2PjRfoNGL2ijkpw5M_NoRwE2PHpabaQvaxxBaNjxmsjckT4Su591K_tarDePc268SOpLZ5qGakj70IBaqs42R0w4MLsi7uy-/hls/index.m3u8
+http://89.187.191.41/A2-HD-TR/video.m3u8
 #EXTINF:-1 group-title="Turk",TRT Muzik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="Turk",TRT Diyanet
@@ -98,7 +98,7 @@ https://tv-trthaber.medya.trt.com.tr/master_360.m3u8
 #EXTINF:-1 group-title="Turk",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master_360.m3u8
 #EXTINF:-1 group-title="Turk",TRT1
-https://trt.daioncdn.net/trt-1/master_720p.m3u8?&sid=6w8in7yy93ge&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
+http://89.187.191.41/TRT-1-HD-TR/video.m3u8
 #EXTINF:-1 group-title="Turk",TLC TR
 https://dogus-live.daioncdn.net/tlc/tlc_360p.m3u8
 #EXTINF:-1 group-title="Turk",TİVİ TÜRK
@@ -122,13 +122,13 @@ https://mn-nl.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=xY
 #EXTINF:-1 group-title="Turk",Euro D TR
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 group-title="Turk",Atv Avropa
-https://trkvz-live.ercdn.net/atvavrupa/atvavrupa_576p.m3u8?st=0Iuka-Z5Ly8ywei4DtD4zg&e=1751161492&SessionID=1.2.1736064750.1751116274&StreamGroup=canli-yayin&Site=atvavrupa&DeviceGroup=web
+http://109.205.166.68:80/server126/hls/atv_avrp.m3u8?st=zlMYxmFR95XcleNSH9WiWw&e=1676581240
 #EXTINF:-1 group-title="Turk",TV8
 https://shouurvki7jtfax.ngolpdkyoctjcddxshli469r.org/sunshine/GCW68u0HV9DSVmTFAHEE9buyD8xHQxvymtYtgu8Npq7DzNbfmRcIKH12mJc0ibESOrWElBLmvZsx0sKcFfKT0ALx7VDeKNRaRDuz2l8gdc2PnEW7hIxAfmVVa9yFxeIrLAWzuSJeKdzWQj-yuUSFxkgmERZ29qI7ZicWadFbAWkDMAlF8iSTqtFLDE_LC8JA/hls/index.m3u8
 #EXTINF:-1 group-title="Turk",Star TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 group-title="Turk",Now
-https://qmaalhy7acgxwhm.ngolpdkyoctjcddxshli469r.org/sunshine/HjSCp6ElzuWkEiRCoudU8cGfLV0lf-lBwyn55s8MDZW6vfoqvvUp3txki5qXdf_QjK_AcGYKrB4mYGs54EsPi3fU2g2PJKza7Axt39kLJ482U3Tvb-Teuy4r39LTbfjttNNIXY2dxkoEJcZjflkdG7QY18ntIzgDXq7yqxUJevAXLoyKHAHD73M3WDl6CjW1/hls/index.m3u8
+https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
 #EXTINF:-1 group-title="Turk",Show TV HD
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 group-title="Turk",ATV HD TR
