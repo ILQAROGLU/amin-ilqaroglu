@@ -189,3 +189,5 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 #EXTINF:-1 group-title="Rus",MИР HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 group-title="Rus",Детский мир
+http://mfe02.cliptv.az:80/dash/Detskiy_Mir_SDqwvb78iu.ism/playlist.mpd
