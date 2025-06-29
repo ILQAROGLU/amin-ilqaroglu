@@ -151,4 +151,41 @@ https://tv.prectv5.sbs/live/bsstars.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/ntv.m3u8
 #EXTINF:-1 group-title="Rus",Кинопремьера HD
 http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
-
+#EXTINF:-1 group-title="Rus",Кинокомедия HD
+http://mfe02.cliptv.az/dash/Kinokomediya_SDdfdf678h.ism/playlist.mpd
+#EXTINF:-1 group-title="Rus",Киносвидание HD
+http://mfe02.cliptv.az:80/dash/Kinosvidaniye_SDdho39d.ism/playlist.mpd
+#EXTINF:-1 group-title="Rus",Киносемья HD
+http://mfe01.cliptv.az:80/dash/Kinosemya_SD_PIVhjdh8f7eg.ism/playlist.mpd
+#EXTINF:-1 group-title="Rus",МУЖСКОЕ КИНО
+http://mfe02.cliptv.az/dash/Mujskoye_Kino_SDpoiu876.ism/playlist.mpd
+#EXTINF:-1 group-title="Rus",Индийское кино
+http://mfe01.cliptv.az:80/dash/Indiyskoe_Kino_SDfdghj4.ism/playlist.mpd
+#EXTINF:-1 group-title="Rus",Киносерия HD
+http://mfe01.cliptv.az:80/dash/Kinoseriya_SDkukuku6.ism/playlist.mpd
+#EXTINF:-1 group-title="Rus",VIP Serial HD
+http://mfe02.cliptv.az/dash/MGM_HDqwervbyu78.ism/playlist.mpd
+#EXTINF:-1 group-title="Rus",VIP Домашний HD
+http://185.32.44.154/domashniy/index.m3u8
+#EXTINF:-1 group-title="Rus",Извеcтия HD
+http://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
+#EXTINF:-1 group-title="Rus",Первый Kanal HD
+http://edge4.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
+#EXTINF:-1 group-title="Rus",РБK ТВ
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 group-title="Rus",РЖД ТВ
+http://hls.tva.cdnvideo.ru/tva/tvahd.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Rus",Росcия 24
+https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tambov/russia24-sd/index.m3u8
+#EXTINF:-1 group-title="Rus",Amedia 1 HD
+http://mfe02.cliptv.az:80/dash/A1_SDoioioi65.ism/playlist.mpd
+#EXTINF:-1 group-title="Rus",Amedia 2 HD
+http://mfe01.cliptv.az/dash/Amedia_2_SD_PIgjf67deV.ism/playlist.mpd
+#EXTINF:-1 group-title="Rus",Астрахань 24
+https://streaming.astrakhan.ru/astrakhanrulivehd/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Rus",Mир +4
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 group-title="Rus",Mир 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 group-title="Rus",MИР HD
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
