@@ -149,4 +149,6 @@ https://tv.prectv5.sbs/live/bspremier1.m3u8
 https://tv.prectv5.sbs/live/bsstars.m3u8
 #EXTINF:-1 group-title="Turk",NTV
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/ntv.m3u8
+#EXTINF:-1 group-title="Rus",Кинопремьера HD
+http://mfe02.cliptv.az/dash/Kinopremiera_HDsdhjop567.ism/playlist.mpd
 
