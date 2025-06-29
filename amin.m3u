@@ -62,7 +62,7 @@ https://b.fulltvizle.com/ahaber/playlist.m3u8
 #EXTINF:-1 group-title="Turk",Tv8 fhd
 http://89.187.191.41/TV8-HD-TR/video.m3u8
 #EXTINF:-1 group-title="Turk",CCN Turk
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8?&live=true&app=com.cnnturk&st=A-ThIpqNjWYCZlVtj18B_Q&e=1751146771
+https://b.fulltvizle.com/cnn/playlist.m3u8
 #EXTINF:-1 group-title="Turk",A2
 http://89.187.191.41/A2-HD-TR/video.m3u8
 #EXTINF:-1 group-title="Turk",TRT Muzik
@@ -133,3 +133,20 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 https://kanal7.daioncdn.net/kanal7/kanal7_480p.m3u8?&sid=630s3zibbjtp&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
 #EXTINF:-1 group-title="Turk",Kanal D
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+#EXTINF:-1 group-title="Turk",Show turk
+https://canlitvulusal.xyz/live/showturk/index.m3u8
+#EXTINF:-1 group-title="Turk",Show Max
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
+#EXTINF:-1 group-title="Turk",Tv 100
+https://tv100-live.daioncdn.net/tv100/tv100_1080p.m3u8
+#EXTINF:-1 group-title="Turk",Global Haber TV 
+https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
+#EXTINF:-1 group-title="Turk",BeIN Box Office 3 HD TR
+https://tv.prectv5.sbs/live/box3.m3u8
+#EXTINF:-1 group-title="Turk",BeIN Movies Premiere HD TR
+https://tv.prectv5.sbs/live/bspremier1.m3u8
+#EXTINF:-1 group-title="Turk",BEIN Movies Stars HD TR
+https://tv.prectv5.sbs/live/bsstars.m3u8
+#EXTINF:-1 group-title="Turk",NTV
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/ntv.m3u8
+
