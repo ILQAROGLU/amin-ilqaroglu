@@ -39,7 +39,7 @@ https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Arb Günəş
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gunes.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Baku tv
-https://rtmp.baku.tv/hls/bakutv.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Nax tv
 https://str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=57c7e6267d233da0a879782a42b7ce89bda9731d-6c8d28d127a4513299f6d251aeb00687-1745962208-1745951408
 #EXTINF:-1 group-title="Azerbaycan",El tv
