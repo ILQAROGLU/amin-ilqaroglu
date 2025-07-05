@@ -13,7 +13,7 @@ https://str.yodacdn.net/tmb_tr_app/tracks-v1a1/mono.m3u8?token=tmb_app_token_135
 #EXTINF:-1 group-title="Azerbaycan",Xəzər
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/xezer-tv.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Dünya tv
-http://rhsbjv7k.tvclub.xyz/iptv/RL8MVW8UX8NNXK/2192/index.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/dunya-tv.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Atv cinema
 http://pars.viper01.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=563780&extension=m3u8
 #EXTINF:-1 group-title="Azerbaycan",Atv.az
