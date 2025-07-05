@@ -23,7 +23,7 @@ https://mydo.canlitvplayer.com/shtv.m3u8?bandwidth=2096&e=1751814000&playlistlen
 #EXTINF:-1 group-title="Azerbaycan",Kanal S
 http://149.255.152.199/kanals.m3u8?bandwidth=6096&e=1751811272&playlistlength=5&shift=0&sid=coder_57&token=2dc76d8766bf85389812f477f35032ab&user=37076
 #EXTINF:-1 group-title="Azerbaycan",Space tv az
-http://flussonic.izone.az/spacetv/index.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Arb
 http://flussonic.izone.az/arb/index.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Arb24
