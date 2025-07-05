@@ -19,7 +19,7 @@ http://pars.viper01.xyz:8080/play/live.php?mac=00:1a:79:54:fc:b1&stream=563780&e
 #EXTINF:-1 group-title="Azerbaycan",Atv.az
 https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Sehiyye tv
-https://str.yodacdn.net/shtv/tracks-v1a1/mono.m3u8?token=2a324a4b3be58092326f78632cdf839dbb771f97-21b52fc0b51ce93bec1a95f527e35b91-1751737938-1751727138
+https://mydo.canlitvplayer.com/shtv.m3u8?bandwidth=2096&e=1751814000&playlistlength=5&shift=0&sid=coder_78&token=286384f961faaf9fee0b04b02d27c314&user=37076
 #EXTINF:-1 group-title="Azerbaycan",Kanal S
 http://149.255.152.199/kanals.m3u8?bandwidth=6096&e=1751811272&playlistlength=5&shift=0&sid=coder_57&token=2dc76d8766bf85389812f477f35032ab&user=37076
 #EXTINF:-1 group-title="Azerbaycan",Space tv az
