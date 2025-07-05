@@ -28,6 +28,8 @@ http://flussonic.izone.az/spacetv/index.m3u8
 http://flussonic.izone.az/arb/index.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Arb24
 http://185.32.44.154/arb24/index.m3u8
+#EXTINF:-1 group-title="Azerbaycan",VIP Tv
+http://149.255.152.199/vip.m3u8?bandwidth=2096&e=1751811285&playlistlength=5&shift=0&sid=coder_52&token=3fe17805bd18ad484ae6acd8c00674f3&user=37076
 #EXTINF:-1 group-title="Azerbaycan",Real.az
 http://185.32.44.154/realtv/index.m3u8
 #EXTINF:-1 group-title="Azerbaycan",CBC.az
