@@ -4,6 +4,8 @@ https://str2.yodacdn.net/aztv/tracks-v1a1/mono.m3u8?token=e4ae0730824e21721ec86b
 https://str2.yodacdn.net/aztv/index.m3u8?token=e4ae0730824e21721ec86b727e6b19c51a543ff9-f32a73f7e596474039b4a41aed323df5-1751734695000000-1751723895000
 #EXTINF:-1 group-title="Azerbaycan",Itv
 https://live.itv.az/itv.m3u8?bandwidth=2500&shift=0
+#EXTINF:-1 group-title="Azerbaycan",Vostok tv
+https://str.yodacdn.net/tmb/tracks-v1a1/mono.m3u8?token=fa6bab613d1972a5555ac1115c49028c3fff2e72-b2c918ac367293b74e9d0d97cb509502-1751752775-1751741975
 #EXTINF:-1 group-title="Azerbaycan",Mədəniyyət tv
 https://str2.yodacdn.net/medeniyyet/tracks-v1a1/mono.m3u8?token=29f8466143c5006ec000fb45925c4017660525d7-af8cbe04bc39a49508616ab50d4627d4-1745948970000000-1745938170000
 #EXTINF:-1 group-title="Azerbaycan",İdman az
