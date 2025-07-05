@@ -73,7 +73,7 @@ http://89.187.191.41/A2-HD-TR/video.m3u8
 #EXTINF:-1 group-title="Turk",TRT Muzik
 https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="Turk",TRT Diyanet
-https://tv-trtdiyanetcocuk.medya.trt.com.tr/master_720.m3u8
+https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Turk",TRT Cocuk HD TR
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="Turk",TRT Belgesel TR
