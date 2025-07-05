@@ -63,7 +63,7 @@ http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/pl
 #EXTINF:-1 group-title="Azerbaycan",Live tv
 https://tv.mobyservice.ru/livetv/index.m3u8
 #EXTINF:-1 group-title="Turk",Minika Cocuk
-https://trkvz-live.ercdn.net/minikagococuk/minikagococuk_576p.m3u8?st=hCd4uCvM4KYKFXzPnBF1IQ&e=1751177251
+https://trkvz-live.ercdn.net/minikagococuk/minikagococuk_576p.m3u8?st=22NWowaWRVMf-ziT5mL9pw&e=1751788868
 #EXTINF:-1 group-title="Turk",A Haber
 https://b.fulltvizle.com/ahaber/playlist.m3u8
 #EXTINF:-1 group-title="Turk",Tv8 fhd
@@ -140,6 +140,8 @@ https://livetv.radyotvonline.net/kanal7live/kanal7avr/chunklist.m3u8
 https://kanal7.daioncdn.net/kanal7/kanal7_480p.m3u8?&sid=630s3zibbjtp&app=f99587ad-1637-494d-8255-da35b09d17a1&ce=3
 #EXTINF:-1 group-title="Turk",Kanal D
 https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8
+#EXTINF:-1 group-title="Turk",Minika Go
+https://trkvz-live.ercdn.net/minikago/minikago_576p.m3u8?st=AedGkuG81QaIIRqwn6_9iw&e=1751788747
 #EXTINF:-1 group-title="Turk",Show turk
 https://canlitvulusal.xyz/live/showturk/index.m3u8
 #EXTINF:-1 group-title="Turk",Show Max
