@@ -121,7 +121,7 @@ https://beyaztv.daioncdn.net/beyaztv/beyaztv_720p.m3u8?&sid=7iupw4g0ebi2&app=fcd
 #EXTINF:-1 group-title="Turk",Akit TV HD TR
 https://akittv-live.ercdn.net/akittv/akittv.m3u8
 #EXTINF:-1 group-title="Turk",EURO STAR
-https://mn-nl.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=xY1FkkQ6NW8etDTOL4Bfxw&e=1751202496
+http://185.234.111.229:8000/play/a01h
 #EXTINF:-1 group-title="Turk",Euro D TR
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1 group-title="Turk",Atv Avropa
@@ -129,7 +129,7 @@ http://109.205.166.68:80/server126/hls/atv_avrp.m3u8?st=zlMYxmFR95XcleNSH9WiWw&e
 #EXTINF:-1 group-title="Turk",Star TV
 https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 group-title="Turk",Now
-https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
+http://116.202.238.88/FOXTV_TR/index.m3u8
 #EXTINF:-1 group-title="Turk",Show TV HD
 https://ciner-live.daioncdn.net/showtv/showtv_1080p.m3u8
 #EXTINF:-1 group-title="Turk",ATV HD TR
