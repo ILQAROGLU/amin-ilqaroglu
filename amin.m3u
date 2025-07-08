@@ -45,8 +45,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-16642607366-1664260736
 #EXTINF:-1 group-title="Azerbaycan",El tv
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:-1 group-title="Azerbaycan",Muz tv
-https://str.yodacdn.net/mtvaz/tracks-v1a1/mono.m3u8?token=439a75aefc8c72020ac579bb33a8ec59a85db11d-5e6d68f570992cd6ca6b947e7c4fcbc5-1751807307-1751796507
 #EXTINF:-1 group-title="Azerbaycan",Ferrux tv
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Apa tv
