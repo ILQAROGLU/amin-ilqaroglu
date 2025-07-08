@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTINF:-1 group-title="Azerbaycan",Az.tv
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/az-tv.m3u8
-#EXTINF:-1 group-title="Azerbaycan",Gunyaz tv
-https://2meet.az/live/livestream.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Itv
 https://live.itv.az/itv.m3u8?bandwidth=2500&shift=0
 #EXTINF:-1 group-title="Azerbaycan",Mədəniyyət tv
-https://str.yodacdn.net/medeniyyet/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/RL8MVW8UX8NNXK/2197/index.m3u8
 #EXTINF:-1 group-title="Azerbaycan",İdman az
 https://str2.yodacdn.net/idman/tracks-v1a1/mono.m3u8?token=29f8466143c5006ec000fb45925c4017660525d7-af8cbe04bc39a49508616ab50d4627d4-1745948970000000-1745938170000
 #EXTINF:-1 group-title="Azerbaycan",TMB az
@@ -45,8 +43,6 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 https://str2.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=a8f3bd09bb748350fa06344bc3b86fe9ae1cd6ca-bd075ff9d485e6bc4f1a0cecae190b8c-1752004930-1751994130
 #EXTINF:-1 group-title="Azerbaycan",El tv
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
-#EXTINF:-1 group-title="Azerbaycan",Qafqaz tv
-https://str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=34b91b6c92a6065f92845524a2ebcff545b78bcb-8fffad51e43db1e2554acc44d1b508dd-1752001035-1751990235
 #EXTINF:-1 group-title="Azerbaycan",Ferrux tv
 https://vsrv1.az-streamingserver.com:3833/live/ofhwiwudlive.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Apa tv
@@ -60,7 +56,13 @@ http://live.azstartv.com/azstar/azstar_240p/playlist.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Konul tv
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Live tv
+#EXTINF:-1 group-title="Azerbaycan",Qafqaz tv
+https://str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=34b91b6c92a6065f92845524a2ebcff545b78bcb-8fffad51e43db1e2554acc44d1b508dd-1752001035-1751990235
 https://tv.mobyservice.ru/livetv/index.m3u8
+#EXTINF:-1 group-title="Azerbaycan",Gunyaz tv
+https://2meet.az/live/livestream.m3u8
+#EXTINF:-1 group-title="Azerbaycan",Show plus tv
+https://2meet.az/live/livestream.m3u8
 #EXTINF:-1 group-title="Turk",Minika Cocuk
 https://trkvz-live.ercdn.net/minikagococuk/minikagococuk_576p.m3u8?st=22NWowaWRVMf-ziT5mL9pw&e=1751788868
 #EXTINF:-1 group-title="Turk",A Haber
@@ -77,8 +79,6 @@ https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8
 https://tv-trtdiyanetcocuk.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 group-title="Turk",TRT Cocuk HD TR
 https://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8
-#EXTINF:-1 group-title="Turk",TRT Belgesel TR
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="Turk",360 HD
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 #EXTINF:-1 group-title="Turk",24 TV HD
