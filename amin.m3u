@@ -42,7 +42,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/arb-gune
 #EXTINF:-1 group-title="Azerbaycan",Baku tv
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/baku-tv.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Nax tv
-http://88.99.66.6:8080/str.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=f3215d55e722954033783f3dd4ea88b87c9a22e7-e81fa0fa6395f13455d0eddddc72eb33-1664271536-16642607366-1664260736
+https://str2.yodacdn.net/ntv/tracks-v1a1/mono.m3u8?token=a8f3bd09bb748350fa06344bc3b86fe9ae1cd6ca-bd075ff9d485e6bc4f1a0cecae190b8c-1752004930-1751994130
 #EXTINF:-1 group-title="Azerbaycan",El tv
 http://85.132.53.162:1935/live/eltv/playlist.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Qafqaz tv
