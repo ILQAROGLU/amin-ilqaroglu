@@ -34,7 +34,7 @@ https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-
 #EXTINF:-1 group-title="Azerbaycan",Real.az
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/real-tv.m3u8
 #EXTINF:-1 group-title="Azerbaycan",CBC.az
-https://stream.cbctv.az:5443/LiveApp/streams/cbctv.m3u8
+https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/cbc.m3u8
 #EXTINF:-1 group-title="Azerbaycan",CBC Sport.az
 https://mn-nl.mncdn.com/cbcsports_live/cbcsports/chunklist.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Arb Günəş
