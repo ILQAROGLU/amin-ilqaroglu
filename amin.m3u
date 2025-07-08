@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Azerbaycan",Az.tv
 https://raw.githubusercontent.com/UzunMuhalefet/streams/refs/heads/main/myvideo-az/az-tv.m3u8
+#EXTINF:-1 group-title="Azerbaycan",Gunyaz tv
+https://2meet.az/live/livestream.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Itv
 https://live.itv.az/itv.m3u8?bandwidth=2500&shift=0
 #EXTINF:-1 group-title="Azerbaycan",Mədəniyyət tv
