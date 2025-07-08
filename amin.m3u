@@ -62,7 +62,7 @@ https://tv.mobyservice.ru/livetv/index.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Gunyaz tv
 https://2meet.az/live/livestream.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Show plus tv
-https://2meet.az/live/livestream.m3u8
+https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 group-title="Turk",Minika Cocuk
 https://trkvz-live.ercdn.net/minikagococuk/minikagococuk_576p.m3u8?st=22NWowaWRVMf-ziT5mL9pw&e=1751788868
 #EXTINF:-1 group-title="Turk",A Haber
