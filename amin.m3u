@@ -57,7 +57,7 @@ http://live.azstartv.com/azstar/azstar_240p/playlist.m3u8
 http://cdn-konultvazerbaijan.yayin.com.tr/konultvazerbaijan/konultvazerbaijan/playlist.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Live tv
 #EXTINF:-1 group-title="Azerbaycan",Qafqaz tv
-https://str.yodacdn.net/qafkaz/tracks-v1a1/mono.m3u8?token=34b91b6c92a6065f92845524a2ebcff545b78bcb-8fffad51e43db1e2554acc44d1b508dd-1752001035-1751990235
+https://proxy.canlitvplayer.com/str.yodacdn.net/qafkaz/mono.m3u8?token=a29a04f55b2030240c4a8ee7d227b76762aa1b1f-b8d3aac708bb9a4e866c210aa090d2c7-1752020865000000-1752010065000
 https://tv.mobyservice.ru/livetv/index.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Gunyaz tv
 https://2meet.az/live/livestream.m3u8
