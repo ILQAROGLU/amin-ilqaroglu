@@ -22,7 +22,7 @@ https://stream.atv.az/WebRTCAppEE/streams/780339739845112514894920_adaptive.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Sehiyye tv
 http://185.32.44.154/sehiyye/index.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Kanal S
-http://149.255.152.199/kanals.m3u8?bandwidth=6096&e=1751811272&playlistlength=5&shift=0&sid=coder_57&token=2dc76d8766bf85389812f477f35032ab&user=37076
+https://node19.connect.az:9081/tv/live/playlist.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Space tv az
 https://raw.githubusercontent.com/UzunMuhalefet/streams/main/myvideo-az/space-tv.m3u8
 #EXTINF:-1 group-title="Azerbaycan",Arb
