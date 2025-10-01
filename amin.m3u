@@ -99,6 +99,8 @@ https://tv-e-okul04.medya.trt.com.tr/master_720.m3u8
 https://tv-trthaber.medya.trt.com.tr/master_360.m3u8
 #EXTINF:-1 group-title="Turk",TRT Avaz
 https://tv-trtavaz.medya.trt.com.tr/master_360.m3u8
+#EXTINF:-1 group-title="Turk",TRT Belgesel
+https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="Turk",Euro Star tv
 https://tgn.bozztv.com/trn03/gt-eurostar/index.m3u8
 #EXTINF:-1 group-title="Turk",TRT1
